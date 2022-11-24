@@ -14,7 +14,7 @@ I have already built the executables for your convenience, so you only need to r
 1. Open Git Bash
 2. Clone the repository by entering "git clone https://github.com/J-Glo/cs330.git"
 3. Go to the directory by entering "cd cs330.
-4. Run the executable byentering "./cs330SecurityDevice.exe"
+4. Run the executable by entering "./cs330SecurityDevice.exe"
 
 
 ---
