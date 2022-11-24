@@ -21,14 +21,9 @@ I have already built the executables for your convenience, so you only need to r
 
 ---
 
-## How to generate unit test coverage:
+## Testing:
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+The python file "" includes my testing of the program using a random number gaenerator.
 
 ---
 
