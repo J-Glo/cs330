@@ -4,7 +4,7 @@
 
 This program takes a string as an input and, depending on the characters of the string, will either print "unlocked", "locked", or will do nothing. 
 The unlock code is 986071, the lock code is 987064. 
-The user inputs either a single digit or multiple digits, and the security device checks to see if the digits entered matches the unlock or lock code. If the codes match, the program will either print "unlocked" or "locked" respectively. The program continualy prompts the user for a code until they enter "Stop" which will terminate the program. As long as any substring of the input matches the unlock/lock code, the security device will unlock/lock. For example, the unlock code is 986071, so an input of 986071 will unlock the device, or xxxx986071xxxxx will also unlock the code with "x" representing any integer. However, entering each digit seperatly, such as 9, then 8, then 6, etc. will not unlock the device. 
+The user inputs either a single digit or multiple digits, and the security device checks to see if the digits entered matches the unlock or lock code. If the codes match, the program will either print "unlocked" or "locked" respectively. The program continually prompts the user for a code until they enter "Stop" which will terminate the program. As long as any substring of the input matches the unlock/lock code, the security device will unlock/lock. For example, the unlock code is 986071, so an input of 986071 will unlock the device, or xxxx986071xxxxx will also unlock the code with "x" representing any integer. However, entering each digit seperatly, such as 9, then 8, then 6, etc. will not unlock the device. 
 
 ---
 
