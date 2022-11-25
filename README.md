@@ -21,7 +21,9 @@ I have already built the executables for your convenience, so you only need to r
 
 ## Testing:
 
-The python file "" includes my testing of the program using a random number gaenerator.
+The python file "cs330SecurityDeviceTest.py" is my testing program for the security device. 
+Using a random number generator, random digits are continuosly entered into the security device until the unlock code is entered, 
+at which point the final count for the amount of digits entered is outputted. 
 
 ---
 
